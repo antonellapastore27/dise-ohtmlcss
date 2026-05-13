@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #462208;    
+}
+
+h1 {
+     
+    font-weight: bold;
+    font-size: 50px;
+}
+h2{
+    font-weight: lighter;
+    color: #78655d;
+}
+p{
+    font-size: 14px;
+    line-height: 1.3;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 50%;
+    
+}
+.container{
+    max-width: 600px;
+    margin: 1% auto;
+    padding: 40px;
+    text-align: left;
+    color: white;
+    background-image: url(https://i.postimg.cc/qBmxwJhs/ariana.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+a{
+    background-color: chocolate;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+}
+img{
+    width: 300px;
+    height: 100px;
+}
+.imagenes{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+}
+.letra {
+    display: flex;
+}
+
